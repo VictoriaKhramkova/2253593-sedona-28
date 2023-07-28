@@ -1,4 +1,4 @@
-# Portfolio «Sedona 2 level» 
+# Portfolio «Adaptive Sedona 2 level» 
 - HTML5
 - CSS3
 - Java Script
